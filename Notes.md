@@ -1,26 +1,18 @@
-# Namaste Javascript by Akshay Saini Season-1
+# Namaste JavaScript by Akshay Saini Season-1
 
 ## **1. How JavaScript Works 🔥& Execution Context | Namaste JavaScript Ep.1**
 
-### **1.1 Execution context in Javascript**
-
-- Everything in Javascript happens inside an execution context.
-
-- Assume an execution context as a big box or a container in which whole javascript code is executed.
-
+### **1.1 Execution context in JavaScript**
+- Everything in JavaScript happens inside an execution context.
+- Assume an execution context as a big box or a container in which whole JavaScript code is executed.
 ### **1.2 Variable Environment of Execution Context**
-
 - Execution has two components
-
 1. Memory Component
-
 2. Code Component
+3. **Memory Component** - this is the place where all the variables and functions are stored in key-value pairs.
+	- Memory component is also known as a variable environment. 
 
-1. **Memory Component** - this is the place where all the variables and functions are stored in key-value pairs.
-
-2. Memory component is also known as a variable environment. 
-
-2. **Code Component** - this is the place where code is executed one line at a time.
+4. **Code Component** - this is the place where code is executed one line at a time.
 
 - Code component is also known as thread of execution.
 
