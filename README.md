@@ -3,17 +3,12 @@
 ## **1. How JavaScript Works 🔥& Execution Context | Namaste JavaScript Ep.1**
 
 ### **1.1 Execution context in Javascript**
-
 - Everything in Javascript happens inside an execution context.
-
 - Assume an execution context as a big box or a container in which whole javascript code is executed.
 
 ### **1.2 Variable Environment of Execution Context**
-
 - Execution has two components
-
 1. Memory Component
-
 2. Code Component
 
 1. **Memory Component** - this is the place where all the variables and functions are stored in key-value pairs.
